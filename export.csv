@@ -1,0 +1,35 @@
+Handle,Title,Body (HTML),Vendor,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / AdWords Grouping,Google Shopping / AdWords Labels,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Variant Image,Variant Weight Unit,Variant Tax Code
+otc-wt2000-m-torch-assy,OTC WT2000-M Torch Assy,"<p><span>* Superior Ergonomic Handle for Easy Operation</span><br><span>* Spring Cable Support for Smooth Wire Wire Feeding</span><br><span>* Durable Metal Connection System</span><br><span>* Many optional parts for various application</span><br><span>* Other Blue Torches also available, please check under introductions</span></p>
+<h3><span>Specs</span></h3>
+<table xmlns=""http://www.w3.org/1999/xhtml"" cellspacing=""0"" cellpadding=""0"" dir=""ltr"" border=""1"">
+<colgroup>
+<col width=""141"">
+<col width=""100"">
+</colgroup>
+<tbody>
+<tr>
+<td data-sheets-value='{""1"":2,""2"":""Part number""}'>Part number</td>
+<td data-sheets-value='{""1"":2,""2"":""WT2000-M""}'>WT2000-M</td>
+</tr>
+<tr>
+<td data-sheets-value='{""1"":2,""2"":""Rated Current""}'>Rated Current</td>
+<td data-sheets-value='{""1"":2,""2"":""200A (CO2) / 160A (MAG)""}'>200A (CO2) / 160A (MAG)</td>
+</tr>
+<tr>
+<td data-sheets-value='{""1"":2,""2"":""Rated Duty Cycle""}'>Rated Duty Cycle</td>
+<td data-sheets-value='{""1"":2,""2"":""50% (CO2) / 30% (MAG)""}'>50% (CO2) / 30% (MAG)</td>
+</tr>
+<tr>
+<td data-sheets-value='{""1"":2,""2"":""Applicable Wire Size""}'>Applicable Wire Size</td>
+<td data-sheets-value='{""1"":2,""2"":""(0.8) 0.9 (1.0) (1.2) mm""}'>(0.8) 0.9 (1.0) (1.2) mm</td>
+</tr>
+<tr>
+<td data-sheets-value='{""1"":2,""2"":""Cable Length""}'>Cable Length</td>
+<td data-sheets-value='{""1"":2,""2"":""4.5 m""}'>4.5 m</td>
+</tr>
+<tr>
+<td data-sheets-value='{""1"":2,""2"":""Cooling Method""}'>Cooling Method</td>
+<td data-sheets-value='{""1"":2,""2"":""Air Cooled""}'>Air Cooled</td>
+</tr>
+</tbody>
+</table>",OTC,Blue Torch,"Cooling Method_Air Cooled, Rated Current_200A (CO2) / 160A (MAG), Type_Blue Torch II",true,Title,Default Title,,,,,"",0,,1,deny,manual,635000.00,,true,true,"",,,,false,,,,,,,,,,,,,,,,,kg,
